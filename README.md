@@ -16,3 +16,6 @@
 	預設僅處理 *.jpg *.png *.gif
 
 2. 並無更新game-box、資料夾 
+
+## 延伸計畫
+Purge清除廢圖片的還沒做，因為Powershell判斷是否為NUll有點問題，還沒特別研究怎麼解決。
